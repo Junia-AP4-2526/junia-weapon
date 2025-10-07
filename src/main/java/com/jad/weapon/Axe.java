@@ -2,6 +2,6 @@ package com.jad.weapon;
 
 public class Axe extends AbstractWeapon {
     public Axe() {
-        super("Hache");
+        super("Hache",8);
     }
 }
